@@ -5,6 +5,7 @@ In the beginning of the game, the programm shows the tip how to enter the coordi
 ![coordinates tip](https://user-images.githubusercontent.com/89091847/129771285-7dae0937-e994-4be7-a008-598eef64e4fd.png)
 
 Any incorrect input is excluded.
+
 ![incorrect input](https://user-images.githubusercontent.com/89091847/129771445-2f2b0e8b-1ec5-4d97-a37a-7e64043e8c20.png)
 
 Taking an occupied cell is impossible as well:
@@ -17,5 +18,6 @@ An example of the process of the game with O winning:
 ![process of the game4](https://user-images.githubusercontent.com/89091847/129771823-221e1d05-7cc2-4a26-b256-213df4e6922f.png)
 
 Cases of X winning and of a draw:
+
 ![x wins](https://user-images.githubusercontent.com/89091847/129772655-8c3535c4-14cb-4db2-887f-bf6b39c333d5.png)
 ![a draw](https://user-images.githubusercontent.com/89091847/129772657-6915d4a6-8ebe-4c5e-ba3f-67689dfda79e.png)
