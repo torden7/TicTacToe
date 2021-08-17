@@ -1,7 +1,7 @@
 # TicTacToe
 A simple command line tic-tac-toe game
 
-In the beginning of the game, the programm shows the tip how to enter the coordinates to make a move.  
+In the beginning of the game, the program shows the tip how to enter the coordinates to make a move.  
 ![coordinates tip](https://user-images.githubusercontent.com/89091847/129771285-7dae0937-e994-4be7-a008-598eef64e4fd.png)
 
 Any incorrect input is excluded.  
