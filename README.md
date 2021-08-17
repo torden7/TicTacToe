@@ -14,7 +14,7 @@ An example of the process of the game with O winning:
 ![process of the game1](https://user-images.githubusercontent.com/89091847/129771550-b206760e-695a-4ddb-8f6b-8eedc172f701.png)
 ![process of the game2](https://user-images.githubusercontent.com/89091847/129771817-e1a0fb1b-c609-4384-8ac8-9d53b76d50e6.png)
 ![process of the game3](https://user-images.githubusercontent.com/89091847/129771818-cea93207-3725-42fe-a592-5e82e4653a2b.png)
-![process of the game4](https://user-images.githubusercontent.com/89091847/129771823-221e1d05-7cc2-4a26-b256-213df4e6922f.png)
+![process of the game4](https://user-images.githubusercontent.com/89091847/129806504-f18ed6f1-45dd-44f0-ba76-eb11edc8b9a2.png)
 
 Cases of X winning and of a draw:  
 ![x wins](https://user-images.githubusercontent.com/89091847/129772655-8c3535c4-14cb-4db2-887f-bf6b39c333d5.png)
