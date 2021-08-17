@@ -1,16 +1,16 @@
 # TicTacToe
 A simple command line tic-tac-toe game
 
-In the beginning of the game, the programm shows the tip how to enter the coordinates to make a move.
+In the beginning of the game, the programm shows the tip how to enter the coordinates to make a move.  
 ![coordinates tip](https://user-images.githubusercontent.com/89091847/129771285-7dae0937-e994-4be7-a008-598eef64e4fd.png)
 
 Any incorrect input is excluded.  
 ![incorrect input](https://user-images.githubusercontent.com/89091847/129771445-2f2b0e8b-1ec5-4d97-a37a-7e64043e8c20.png)
 
-Taking an occupied cell is impossible as well:
+Taking an occupied cell is impossible as well:  
 ![occupied cell](https://user-images.githubusercontent.com/89091847/129772194-71f482c6-2b09-44fa-b8ea-ff4c31bb7367.png)
 
-An example of the process of the game with O winning:
+An example of the process of the game with O winning:  
 ![process of the game1](https://user-images.githubusercontent.com/89091847/129771550-b206760e-695a-4ddb-8f6b-8eedc172f701.png)
 ![process of the game2](https://user-images.githubusercontent.com/89091847/129771817-e1a0fb1b-c609-4384-8ac8-9d53b76d50e6.png)
 ![process of the game3](https://user-images.githubusercontent.com/89091847/129771818-cea93207-3725-42fe-a592-5e82e4653a2b.png)
