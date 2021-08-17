@@ -113,7 +113,7 @@ func getYesOrNo() -> String {
 // The game itself
 while true {
   print("""
-  Coordinates tip for the game:
+  \nCoordinates tip for the game:
   # # # # # # # # # # # #
   # |-----|-----|-----| #
   # | 1 3 | 2 3 | 3 3 | #
